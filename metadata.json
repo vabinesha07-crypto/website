@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vélène — Haute Couture & Ready-to-Wear Dresses",
+  "description": "Discover Atelier Vélène's curated collection of evening gowns, pure mulberry silk slip dresses, sculpted cocktail silhouettes, and tailored linen dresses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
